@@ -1,0 +1,5 @@
+대입(assign) vs bind
+
+var_10 = 10
+
+id(var_10)
