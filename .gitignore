@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# file ext
+ # file ext
 *.txt
 
 # Distribution / packaging
