@@ -36,3 +36,4 @@ Python code bank
 ** JWT
 
 
+** docs.python.org/3/library/functions.html
