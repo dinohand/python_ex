@@ -1,0 +1,15 @@
+[SYSTEM]
+log_level = 30
+auth_key = 0X00X00
+
+[DATABASE]
+name = MARIA
+host = 127.0.0.1
+port = 3306
+user_id = 
+user_pw = 
+
+[TEST]
+test_level = ALPHA
+result = PASS
+
