@@ -33,3 +33,8 @@ venv.bak/
 
 # resource
 assets/
+
+# 테스트 파일
+*.xlsx
+*.xls
+*.csv
