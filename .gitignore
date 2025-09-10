@@ -35,6 +35,6 @@ venv.bak/
 assets/
 
 # 테스트 파일
-*.xlsx
-*.xls
-*.csv
+# *.xlsx
+# *.xls
+# *.csv
